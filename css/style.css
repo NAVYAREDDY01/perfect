@@ -1,0 +1,111 @@
+#navya{
+    background-color: blue;
+    color: blueviolet;
+}
+.navya{
+    background-color: burlywood;
+    color: cadetblue;
+}
+.first{
+    border: 2px solid #000;
+    margin: 2px;
+    width: 1000px;
+    height: 1000px;
+}
+.parent{
+    display: flex;
+}
+.b1{
+    background-color: mediumpurple;
+    width: 500px;
+    height: 300px;
+}
+.b2{
+    background-color:mediumseagreen;
+    width: 300px;
+    height: 100px;
+}
+.first img{
+   border: solid black;
+   border-radius: 50%;
+   padding: 10%;
+   opacity: 0.5;
+}
+h1{
+    color:navy;
+}
+.pluto1{
+    border: 1px solid #000;
+    width: 250px;
+    height:600px;
+    box-shadow: +7px +7px 3px 3px silver;
+    margin: 8px;
+}
+.pluto2{
+    width: 240px;
+    height: 280px;
+    border:2px solid #000;
+    margin: 3px;
+    text-align: center;
+    background-color: #FFCC80;
+}
+.pluto3{
+    width: 240px;
+    height: 150px;
+    margin-left:auto;
+    margin-right: auto;
+    border:2px solid #000;
+    background-color:#FFE0B2;
+}
+.pluto4{
+    width: 240px;
+    height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    border:2px solid #000;
+    background-color: #FFF3E0;
+}
+.pluto5{
+    border: 1px solid #000;
+    width: 1000px;
+    height: 600px;
+    box-shadow: +7px +7px 3px 3px silver;
+    margin: 8px;
+}
+.pluto6{
+    border: 2px solid #000;
+    margin: 2px;
+    background-color: #4DD0E1;
+   
+}
+.pluto7{
+    border: 1px solid #000 ;
+    margin: 2px;
+    background-color: #80DEEA;
+}
+.pluto8{
+    border: 1px solid #000 ;
+    margin: 2px;
+    background-color: #B2EBF2;
+}
+.pluto9{
+    border: 1px solid #000 ;
+    margin: 2px;
+    height: 65px ;
+    background-color: #E0F7FA;
+
+}
+.master{
+    display:flex;
+    background-color: #dfe6e9;
+    font-style: oblique;
+}
+table{
+    background-color:#E0E0E0;
+}
+@media screen and (min-width:320px) and (max-width:480p){
+    .master{
+        display: flex;
+    }
+}
+
