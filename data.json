@@ -1,0 +1,37 @@
+{
+    "details":{
+      "image":"image/toff.svg",
+     "name":"navya",
+     "email":"navya@gmail.com",
+     "number":"9876543210",
+     "Address":"nrt"
+    },
+    "careerobjective":{
+     "info":"to secure a challenging position in an organization to expand my skills"
+   
+    },
+    "educationalqualification":[
+   {
+    "institute":"srkr",
+    "degree":"B.tech",
+    "passoutyr":"2021",
+    "percentage":"90%"
+   
+   },
+   {
+    "institute":"bhashyam junior college",
+    "degree":"Intermediate",
+    "passoutyr":"2017",
+    "percentage":"97%"
+   
+   },
+   {
+    "institute":"bhashyam",
+    "degree":"ssc",
+    "passoutyr":"2015",
+    "percentage":"96%"
+   
+   }
+     ]
+}
+   

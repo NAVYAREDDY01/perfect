@@ -1,0 +1,16 @@
+{
+    "details1":{
+      "image":"image/toff.svg",
+     "name":"navya",
+     "email":"navya@gmail.com",
+     "number":"9876543210",
+     "button":"pluto.html"
+    },
+    "details2":{
+        "image":"image/toff.svg",
+       "name":"navya",
+       "email":"navya@gmail.com",
+       "number":"9876543210"
+      }
+}
+   
