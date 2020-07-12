@@ -33,8 +33,7 @@
 }
 @media only screen and (min-width:320px) and (max-width:480px){
     .parent{
-        display: flex;
-        flex-direction: row;
+        display: inline;
     }
     .child1{
         width: 90%;
@@ -61,5 +60,6 @@
         padding: 1%;
         margin: 1%;
         border-radius: 10%;
+        background-color: cornsilk;
     }
 }
